@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+.doggo{
+    border: solid white 5px;
+    width: 100%;
+}
+H1{
+    text-transform: capitalize;
+    size: 3rem;
+}
